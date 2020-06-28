@@ -1,0 +1,5 @@
+You are alone in a room. You cannot get out.
+What do you want to do?
+1. Go to sleep
+2. Bang on the door and yell at the top of your lungs.
+3. Cry
